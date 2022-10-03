@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavyashreeS12
-- 👀 I’m interested in coding in python
-- 🌱 I’m currently studying engineering in information science
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently studying Information Science and Engineering in Don Bosco institute of technology
 - 📫 How to reach me Email: kavyashashikumar02@gmail.com
 
 <!---
